@@ -1,0 +1,12 @@
+C:\PROYECTOPIZZATECH\PizzeriaApp\pizzeriaPersistencia\bin\Debug\netstandard2.1\PizzeriaPersistencia.deps.json
+C:\PROYECTOPIZZATECH\PizzeriaApp\pizzeriaPersistencia\bin\Debug\netstandard2.1\PizzeriaPersistencia.dll
+C:\PROYECTOPIZZATECH\PizzeriaApp\pizzeriaPersistencia\bin\Debug\netstandard2.1\PizzeriaPersistencia.pdb
+C:\PROYECTOPIZZATECH\PizzeriaApp\pizzeriaPersistencia\bin\Debug\netstandard2.1\PizzeriaDominio.dll
+C:\PROYECTOPIZZATECH\PizzeriaApp\pizzeriaPersistencia\bin\Debug\netstandard2.1\PizzeriaDominio.pdb
+C:\PROYECTOPIZZATECH\PizzeriaApp\pizzeriaPersistencia\obj\Debug\netstandard2.1\PizzeriaPersistencia.csprojAssemblyReference.cache
+C:\PROYECTOPIZZATECH\PizzeriaApp\pizzeriaPersistencia\obj\Debug\netstandard2.1\PizzeriaPersistencia.AssemblyInfoInputs.cache
+C:\PROYECTOPIZZATECH\PizzeriaApp\pizzeriaPersistencia\obj\Debug\netstandard2.1\PizzeriaPersistencia.AssemblyInfo.cs
+C:\PROYECTOPIZZATECH\PizzeriaApp\pizzeriaPersistencia\obj\Debug\netstandard2.1\PizzeriaPersistencia.csproj.CoreCompileInputs.cache
+C:\PROYECTOPIZZATECH\PizzeriaApp\pizzeriaPersistencia\obj\Debug\netstandard2.1\PizzeriaPersistencia.csproj.CopyComplete
+C:\PROYECTOPIZZATECH\PizzeriaApp\pizzeriaPersistencia\obj\Debug\netstandard2.1\PizzeriaPersistencia.dll
+C:\PROYECTOPIZZATECH\PizzeriaApp\pizzeriaPersistencia\obj\Debug\netstandard2.1\PizzeriaPersistencia.pdb

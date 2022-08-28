@@ -1,0 +1,9 @@
+C:\PROYECTOPIZZATECH\PizzeriaApp\PizzeriaDominio\bin\Debug\netstandard2.0\PizzeriaDominio.deps.json
+C:\PROYECTOPIZZATECH\PizzeriaApp\PizzeriaDominio\bin\Debug\netstandard2.0\PizzeriaDominio.dll
+C:\PROYECTOPIZZATECH\PizzeriaApp\PizzeriaDominio\bin\Debug\netstandard2.0\PizzeriaDominio.pdb
+C:\PROYECTOPIZZATECH\PizzeriaApp\PizzeriaDominio\obj\Debug\netstandard2.0\PizzeriaDominio.csprojAssemblyReference.cache
+C:\PROYECTOPIZZATECH\PizzeriaApp\PizzeriaDominio\obj\Debug\netstandard2.0\PizzeriaDominio.AssemblyInfoInputs.cache
+C:\PROYECTOPIZZATECH\PizzeriaApp\PizzeriaDominio\obj\Debug\netstandard2.0\PizzeriaDominio.AssemblyInfo.cs
+C:\PROYECTOPIZZATECH\PizzeriaApp\PizzeriaDominio\obj\Debug\netstandard2.0\PizzeriaDominio.csproj.CoreCompileInputs.cache
+C:\PROYECTOPIZZATECH\PizzeriaApp\PizzeriaDominio\obj\Debug\netstandard2.0\PizzeriaDominio.dll
+C:\PROYECTOPIZZATECH\PizzeriaApp\PizzeriaDominio\obj\Debug\netstandard2.0\PizzeriaDominio.pdb
