@@ -1,0 +1,21 @@
+﻿@page
+@model vistas.Pages.inicioModel
+@{
+    ViewData["Title"] = "Inicio";
+}
+<div class="top">
+    <p>PIZZA TECH</p>
+    <p>Bienvenidos a su pizzeria artesanal<br><br></p>
+</div>
+<div class="etiqueta_1">
+    <imagen>
+        <img src="pizza.jpg" alt="pizza de la casa" width="400" height="300">
+    </imagen>
+    <article>
+        <a class="navbar-brand" asp-area="" asp-page="/HMI/login"><button type="button" class="btn btn-primary">Iniciar sesion</button></a>
+        <p><br></p>
+        <a class="navbar-brand" asp-area="" asp-page="/HMI/registro"><button type="button" class="btn btn-primary">Registrarse</button></a>
+    </article> 
+</div>
+
+
