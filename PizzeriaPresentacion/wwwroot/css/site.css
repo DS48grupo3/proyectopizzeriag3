@@ -1,0 +1,118 @@
+﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+  align-items: center;
+ 
+}
+
+/* Provide sufficient contrast against white background */
+a {
+  color: #0366d6;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+  display: block;
+  margin-bottom: 30px;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  font-size: 14px;
+}
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.border-top {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px; /* Vertically center the text there */
+}
+
+/*-----estilos pizza tech--------*/
+.top{
+  color: #d35e16;
+  font-size: 26px;
+  text-align: center;
+
+}
+.container{
+  background-color: #167ed3;
+  color: #fff;
+}
+.medium{
+  text-align: justify;
+  margin-right: 25px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 25px;
+}
+h1{
+  text-align: center;
+}
+.etiqueta_1{
+  display:flex;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-top: 15px;
+  text-align: center;
+}
+
+.etiqueta_2{
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 26px;
+  color: #d35e16;
+}
+.border{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 60vh;
+  margin-top: 50px;
+}

@@ -1,0 +1,51 @@
+﻿@page
+@model PizzeriaPresentacion.Pages.registroModel
+@{
+    ViewData["Title"] = "Registro";
+}
+<div class="border">
+    <form>
+      <div class="form-row">
+        <div class="form-group col-md-6">
+          <label for="inputEmail4">Email</label>
+          <input type="email" class="form-control" id="inputEmail4" placeholder="Email">
+        </div>
+        <div class="form-group col-md-6">
+          <label for="inputPassword4">Password</label>
+          <input type="password" class="form-control" id="inputPassword4" placeholder="Password">
+        </div>
+      </div>
+      <div class="form-row">
+        <div class="form-group col-md-6">
+          <label for="inputNombre">Nombres</label>
+          <input type="text" class="form-control" id="inputNombres">
+        </div>
+        <div class="form-group col-md-6">
+          <label for="inputApellido">Apellidos</label>
+          <input type="text" class="form-control" id="inputApellidos">
+        </div>
+      </div>
+
+      <div class="form-group">
+        <label for="inputAddress">Direccion</label>
+        <input type="text" class="form-control" id="inputAddress" placeholder="1234 Main St">
+      </div>
+      <div class="form-row">
+        <div class="form-group col-md-6">
+          <label for="inputCity">Ciudad</label>
+          <input type="text" class="form-control" id="inputCity">
+        </div>
+        <div class="form-group col-md-3">
+          <label for="inputTelefono">Telefono</label>
+          <input type="text" class="form-control" id="inputTelefono">
+        </div>
+        <div class="form-group col-md-3">
+          <label for="inputUsuario">User name</label>
+          <input type="text" class="form-control" id="inputUsuario">
+        </div>
+      </div>
+      <div class="form-group">
+      </div>
+      <button type="submit" class="btn btn-primary">Registrarse</button>
+    </form>
+</div>
